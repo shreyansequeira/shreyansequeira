@@ -1,4 +1,4 @@
-<h1>Shreyan Sequeira <br/><a href="https://github.com/shreyansequeira">Programmer</a>, <a href="www.linkedin.com/in/shreyan-sequeira-181b1931b">Machine Learning</a>, Game Developer</a></h1>
+<h1>Shreyan Sequeira <br/><a href="https://github.com/shreyansequeira">Programmer</a>, <a href="www.linkedin.com/in/shreyan-sequeira-181b1931b/">Machine Learning, Game Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
